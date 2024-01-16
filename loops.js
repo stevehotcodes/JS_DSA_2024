@@ -42,18 +42,25 @@ let r=5;
 
 //outer loop
 
-for(let i=1;i<r;i++){
+for(let i=1;i<=r;i++){
     for( let num=1; num<=i;num++){
-        if(num===1||num==i||num===r){
-            patternSequence+="*"
-        }
-        else{
-            patternSequence+=""
-        }
+        patternSequence+="*"
+    }    
         
-    }
+    
     patternSequence+="\n";
 }
 
 console.log(patternSequence);
+
+
+
+
+
+
+
+
+
+
+
 
