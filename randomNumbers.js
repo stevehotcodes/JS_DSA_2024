@@ -46,5 +46,3 @@ do{
 console.log("do while loop alterantive of generating random numbers",randomNumbers2);
 
 
-
-
