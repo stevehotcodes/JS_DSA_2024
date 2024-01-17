@@ -1,4 +1,4 @@
-// // //generate random number between 1 to 49
+// generates random number between 1 to 49
 
 let randomNumbers = [];
 
